@@ -1,0 +1,18 @@
+payload:
+  #MODIFICATION By: SEKARREPKU
+  #CREDIT: REYRE,MASTERWIFI,PEJUANG RECEH,ALL MEMBER OPEN WRT
+  #SUPPORT TRAKTER DANA OVO GOPAY SHOPEPAY 082225022058 BCA 7580612398 a/n LATIFAN
+
+  # WhatsApp
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-KEYWORD,whatsapp-plus
+  - DOMAIN-SUFFIX,fna.whatsapp.net
+  - DOMAIN-SUFFIX,wa.me
+  - DOMAIN-SUFFIX,whatsapp.cc
+  - DOMAIN-SUFFIX,whatsapp.com
+  - DOMAIN-SUFFIX,whatsapp.info
+  - DOMAIN-SUFFIX,whatsapp.net
+  - DOMAIN-SUFFIX,whatsapp.org
+  - DOMAIN-SUFFIX,whatsapp.tv
+  - DOMAIN-SUFFIX,whatsappbrand.com
