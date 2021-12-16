@@ -24,6 +24,36 @@ payload:
   - DOMAIN-KEYWORD,dualstack.apiproxy-
   - DOMAIN-KEYWORD,dualstack.ichnaea-web-
 
+ # > Disney Plus
+  # - User-Agent,Disney*
+  - DOMAIN-SUFFIX,adobedtm.com
+  - DOMAIN-SUFFIX,bam.nr-date.net
+  - DOMAIN-SUFFIX,bamgrid.com
+  - DOMAIN-SUFFIX,braze.com
+  - DOMAIN-SUFFIX,cdn.optimizely.com
+  - DOMAIN-SUFFIX,cdn.registerdisney.go.com
+  - DOMAIN-SUFFIX,cws.conviva.com
+  - DOMAIN-SUFFIX,d9.flashtalking.com
+  - DOMAIN-SUFFIX,disney.demdex.net
+  - DOMAIN-SUFFIX,disney.my.sentry.io
+  - DOMAIN-SUFFIX,disneyplus.bn5x.net
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
+  - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,disney-portal.my.onetrust.com
+  - DOMAIN-SUFFIX,dssott.com
+  - DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,js-agent.newrelic.com
+  - DOMAIN-SUFFIX,hotstar.com
+  - DOMAIN-KEYWORD,hotstar
+
+ # > Vidio
+  - DOMAIN-SUFFIX,vidio.com
+  - DOMAIN-KEYWORD,static-playback-vidio-com.akamaized
+  - DOMAIN-KEYWORD,cdn-production-thumbor-vidio.akamaized
+  - DOMAIN-KEYWORD,etslive-2-vidio-com.akamaized
+  - DOMAIN-KEYWORD,vidio
+
   - IP-CIDR,208.75.76.0/22,no-resolve
   - IP-CIDR,207.45.72.0/22,no-resolve
   - IP-CIDR,185.2.0.0/16,no-resolve
