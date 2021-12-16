@@ -1,4 +1,7 @@
 # luna-makin-akrab
+
+Apabila sudah pernah pasang, silakan unduh ulang semua
+
 OC penambahan rule netflix, vidio, disney modif dari latifan
 Apabila eror netflix/vidio/Disney harap hubungi https://t.me/Iremcl untuk perbaikan
 
